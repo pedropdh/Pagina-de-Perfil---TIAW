@@ -1,0 +1,74 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Montserrat'
+}
+.container-fluid{
+    background-color: #0F0F0F;
+}
+.bg-white{
+    border-radius: 30px;
+}
+#ftPerfil {
+    border-radius: 100%;
+  }
+img{
+    border-radius: 10px;
+}
+div {
+    word-wrap: break-word;
+}
+#nome2, #bio2, #exp2 ,#end2 ,#insta2 ,#face2, #e-mail2{
+    color: black;
+}
+
+div #botao{
+    margin: 0.3em;
+    width: 260px;
+    height: 69px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: rgb(232, 232, 232);
+}
+#btnAddFoto{
+    margin: 0.3em;
+    width: 260px;
+    height: 320px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgb(232, 232, 232);
+
+}
+
+#exampleModal, #exampleModal1{
+    color: black;
+}
+input[type="text"] {
+    background: transparent;
+    border: none;
+    color:black;
+    
+    font-size: 15px;
+}
+label{
+    font-size: 20px;
+}
+input[id="nome"]{
+    font-size: 40px;
+
+}
+
+div textarea{
+    background: transparent;
+    border: none;
+    color: white;
+    resize: none;
+    font-size: 16px;
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+}
